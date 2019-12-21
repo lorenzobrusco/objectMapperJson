@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mapper")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Object.Mapper.Json")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Mapper")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Mapper")]
+[assembly: System.Reflection.AssemblyProductAttribute("Object.Mapper.Json")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Object.Mapper.Json")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
