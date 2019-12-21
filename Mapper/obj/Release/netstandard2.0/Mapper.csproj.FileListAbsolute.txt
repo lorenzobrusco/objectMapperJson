@@ -1,8 +1,0 @@
-C:\Users\brusc\source\repos\Mapper\Mapper\obj\Release\netstandard2.0\Mapper.csprojAssemblyReference.cache
-C:\Users\brusc\source\repos\Mapper\Mapper\obj\Release\netstandard2.0\Mapper.AssemblyInfoInputs.cache
-C:\Users\brusc\source\repos\Mapper\Mapper\obj\Release\netstandard2.0\Mapper.AssemblyInfo.cs
-C:\Users\brusc\source\repos\Mapper\Mapper\bin\release\netstandard2.0\Object.Mapper.Json.deps.json
-C:\Users\brusc\source\repos\Mapper\Mapper\bin\release\netstandard2.0\Object.Mapper.Json.dll
-C:\Users\brusc\source\repos\Mapper\Mapper\bin\release\netstandard2.0\Object.Mapper.Json.pdb
-C:\Users\brusc\source\repos\Mapper\Mapper\obj\release\netstandard2.0\Object.Mapper.Json.dll
-C:\Users\brusc\source\repos\Mapper\Mapper\obj\release\netstandard2.0\Object.Mapper.Json.pdb
